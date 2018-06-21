@@ -1,1 +1,1 @@
-# angrails-front
+# In development.
